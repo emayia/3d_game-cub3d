@@ -146,3 +146,5 @@ C 20,100,190
 ## Author
 
 Project developed by [Emin A.](https://github.com/emayia) as part of the École 42 curriculum.
+
+Special thanks to my dear brother [Malik I.](https://github.com/ma1iik) for his precious guidance and help.
